@@ -5,6 +5,6 @@ The portfolio showcases a complete modern data science lifecycle: from automated
 
 ## Core Skills & Technical Stack Demonstrated
 * **Languages:** Python (Pandas, NumPy, Requests, BeautifulSoup, Matplotlib, Seaborn)
-* **Databases & Relational Analytics:** SQL, SQLite,
+* **Databases & Relational Analytics:** SQL, SQLite
 * **Geospatial & Interactive Visual Analytics:** Folium Mapping Engine, Plotly, Plotly Dash Web Framework
-* **Predictive Modeling & Machine Learning:** Scikit-Learn (Supervised Classification, Feature Standardisation, Hyperparameter Optimisation via `GridSearchCV`, Model Selection and Evaluation)
+* **Predictive Modeling & Machine Learning:** Scikit-Learn (Supervised Classification, Feature Standardisation, Hyperparameter Optimisation using 'GridSearchCV`, Model Selection and Evaluation)
