@@ -18,7 +18,7 @@ This capstone project analyses SpaceX Falcon 9 launches to investigate factors a
 * `/SpaceX Interactive Visual Analytics with Folium.ipynb`- Geospatial analysis notebook implementing the **Folium** mapping engine, `MarkerCluster` plugins, and coordinate distance logic (`PolyLine`) to evaluate pad positioning relative to geographic safety hazards.
 * `/SpaceX Interactive Dashboard with Plotly Dash.py`- Plotly Dash code script driving the reactive operations dashboard.
 * `/SpaceX Machine Learning Prediction.ipynb`- Core machine learning script executing hyperparameter tuning loops using `GridSearchCV`, and comparative confusion matrix evaluations.
-* `/SpaceX Capstone Final Presentation.pdf`- Presentation of data-driven insights.
+* `/Data Science Capstone Project Report`- Presentation of data-driven insights.
 
 ## Core Emprirical Findings
 * **Model Accuracy:** Logistic Regression, SVM, and KNN tied with a deployment test set accuracy of **83.33%**.
